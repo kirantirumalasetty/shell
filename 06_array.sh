@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 FRUITS=("APPLE" "BANANA" "CITRUS" "DRAGONFRUIT" "GRAPES" "MANGO")
 echo "First fruit is: ${FRUITS[0]}"
 echo "Second fruit is: ${FRUITS[1]}"

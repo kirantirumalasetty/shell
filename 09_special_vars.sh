@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 echo "All variabls passed to the script: $@"
 echo "How many variabls passed to the script: $#"
 echo "To find  the script name: $0"

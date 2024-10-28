@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 USERNAME=kiran
 PASSWORD=Parthavi@17
 echo "Please enter your User Name: "
